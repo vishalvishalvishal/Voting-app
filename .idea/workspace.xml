@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90cfd58f-cdbd-4b87-b061-841c01e8adca" name="Default Changelist" comment="New commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/vishalvishalvishal/Voting-app.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bQpCkhdfww8U2Ybw6nnlsea99K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\new" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90cfd58f-cdbd-4b87-b061-841c01e8adca" name="Default Changelist" comment="" />
+      <created>1588574055445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588574055445</updated>
+      <workItem from="1588574156174" duration="282000" />
+      <workItem from="1588574636880" duration="839000" />
+      <workItem from="1588657432365" duration="3660000" />
+      <workItem from="1588662492174" duration="2249000" />
+      <workItem from="1588744946918" duration="2698000" />
+      <workItem from="1588828170469" duration="3682000" />
+      <workItem from="1588919563279" duration="2537000" />
+      <workItem from="1589002447639" duration="587000" />
+      <workItem from="1589179442816" duration="4361000" />
+      <workItem from="1589265126659" duration="1223000" />
+      <workItem from="1589268225509" duration="3131000" />
+      <workItem from="1589439671018" duration="4642000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1589442786508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589442786508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1589442824400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589442824400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit for app">
+      <created>1589443028115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589443028115</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New commit">
+      <created>1589443517883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589443517883</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit for repo" />
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="initial commit1" />
+    <MESSAGE value="initial commit for app" />
+    <MESSAGE value="New commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="568" y="225" key="#Notifications" timestamp="1589442980521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="225" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1589442980521" />
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589180992345">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589180992345" />
+    <state x="427" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589444394674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="427" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1589444394674" />
+    <state x="313" y="99" key="#com.intellij.ide.util.ExportDialog" timestamp="1589443890193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="99" key="#com.intellij.ide.util.ExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1589443890193" />
+    <state x="441" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588659285636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="232" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1588659285636" />
+    <state x="463" y="103" key="FileChooserDialogImpl" timestamp="1588662278552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="103" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588662278552" />
+    <state x="571" y="229" width="224" height="288" key="MultipleFileMergeDialog" timestamp="1589443832629">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="571" y="229" width="224" height="288" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1589443832629" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1588662316166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588662316166" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1589443688862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589443688862" />
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1589443721783">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1589443721783" />
+    <state x="380" y="150" key="git4idea.merge.GitPullDialog" timestamp="1589443153910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="150" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1589443153910" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588762423426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1588762423426" />
+  </component>
+</project>
