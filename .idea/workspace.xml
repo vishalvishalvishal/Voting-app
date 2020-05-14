@@ -6,21 +6,12 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
@@ -37,6 +28,11 @@
         <option name="argument" value="--follow-tags" />
         <option name="title" value="Current Branch" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -89,7 +85,7 @@
       <workItem from="1589179442816" duration="4361000" />
       <workItem from="1589265126659" duration="1223000" />
       <workItem from="1589268225509" duration="3131000" />
-      <workItem from="1589439671018" duration="4642000" />
+      <workItem from="1589439671018" duration="4947000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1589442786508</created>
@@ -119,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589443517883</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New commit">
+      <created>1589444443255</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589444443255</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New commit">
+      <created>1589444576978</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589444576978</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,7 +146,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin" />
                       </list>
                     </value>
                   </entry>
@@ -189,10 +199,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588662316166" />
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1589443688862">
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1589444691353">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589443688862" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589444691353" />
     <state x="110" y="120" width="1146" height="488" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1589443721783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
